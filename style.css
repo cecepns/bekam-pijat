@@ -997,6 +997,8 @@ h1, h2, h3, h4 {
 .about-card.reveal:nth-child(3) { transition-delay: 0.2s; }
 
 .service-card.reveal:nth-child(2) { transition-delay: 0.15s; }
+.service-card.reveal:nth-child(3) { transition-delay: 0.3s; }
+.service-card.reveal:nth-child(4) { transition-delay: 0.45s; }
 
 .benefit-item.reveal:nth-child(2) { transition-delay: 0.08s; }
 .benefit-item.reveal:nth-child(3) { transition-delay: 0.16s; }
